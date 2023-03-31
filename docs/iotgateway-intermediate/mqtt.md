@@ -2,7 +2,7 @@
 sidebar_position: 4
 title: 3.2 MQTT接口
 ---
-> 不通平台的规则不用，目前已经实现了iotsharp、thingsboard、thingscloud、华为ROMA等平台
+> 不同平台的规则不用，目前已经实现了iotsharp、thingsboard、thingscloud、华为ROMA等平台
 >
 > 其他平台请参阅对应的文档
 >
